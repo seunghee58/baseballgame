@@ -1,5 +1,3 @@
-package baseballgame;
-
 import java.util.Scanner;
 
     public class game {
